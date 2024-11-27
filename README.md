@@ -1,2 +1,1 @@
-Basic android app
-external JSON to disply swiping saved in roomDB.
+Android app: external JSON data to disply swiping saved in roomDB.
